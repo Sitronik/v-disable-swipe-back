@@ -7,7 +7,7 @@ export const DisableSwipeBackDirective = {
       threshold: 0,
       gestureName: 'goback-swipe',
       gesturePriority: 40.5,
-      onMove: (ev) => console.log(ev)
+      onMove: () => console.log()
     });
     gesture.enable(true);
   }
