@@ -6,9 +6,7 @@
   "repository": "https://github.com/Sitronik/vue3-beautiful-chat.git",
   "author": "Sitronik <sitronik92@mail.ru>",
   "license": "MIT",
-  "scripts": {
-    "build": "vite build"
-  },
+  "scripts": {},
   "files": [
     "index.js"
   ],
