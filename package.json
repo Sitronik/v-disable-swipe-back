@@ -1,6 +1,6 @@
 {
   "name": "v-disable-swipe-back",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This vue 3 directive for ionic framework, disables switching the previous route if the user makes a swipe on device iOS",
   "main": "index.js",
   "repository": "https://github.com/Sitronik/vue3-beautiful-chat.git",
@@ -13,10 +13,10 @@
   "dependencies": {},
   "devDependencies": {},
   "keywords": [
-    "vue",
-    "vuejs",
-    "chat",
-    "vue-js-chat"
+    "vue 3",
+    "directive",
+    "ionic",
+    "disable swipe back"
   ],
   "bugs": {
     "url": "https://github.com/Sitronik/v-disable-swipe-back/issues"
