@@ -18,3 +18,9 @@ import {DisableSwipeBackDirective} from 'v-disable-swipe-back';
 const app = createApp(App)
   .directive('disable-swipe-back', DisableSwipeBackDirective);
 ```
+In vue template include directive in ion-page
+```vue
+<ion-page v-disable-swipe-back>
+ ...
+</ion-page>
+```
